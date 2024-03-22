@@ -1,0 +1,51 @@
+.imgHome{
+    height: 450px;
+    width: 100%;
+}
+.bi.bi-newspaper, .bi.bi-card-checklist{
+    padding-bottom: 3px;
+}
+li.nav-item, .nav-link.active{
+    width: 500px;
+
+}
+input.form-control{
+    width: 340px;
+}
+form{
+    display: flex;
+}
+.imgFuscaInsert{
+    width: 1000px;
+    height: 600px;
+    padding-left: 60px;
+}
+.newPolo{
+    width: 100%;
+}
+a.linkBootstrap{
+    color: rgb(167, 2, 167);
+}
+section.sectionUpdate{
+    margin-right: 3px;
+    padding-top: 20px;
+}
+.bi.bi-arrow-clockwise{
+    margin-bottom: -20px;
+}
+/* .bi.bi-trash3-fill{
+    color: gray;
+} */
+.footerPart{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+div.res{
+    display: none;
+}
+.divConfirm{
+    width: 500px;
+    height: 300px;
+}
